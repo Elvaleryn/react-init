@@ -1,0 +1,5 @@
+@import 'assets/vars';
+.var-test {
+  color: var(--color-text);
+  font-size: var(--text-size);
+}

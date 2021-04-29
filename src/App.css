@@ -1,0 +1,6 @@
+.background-testing {
+  background-image: url('./assets/logo192.png');
+  width: 100px;
+  height: 100px;
+  color: var(--color-text);
+}
